@@ -1,2 +1,4 @@
 this is one.
 Add another thing in this file to commit.
+Add another thing in this file to commit.
+Add another thing in this file to commit.
